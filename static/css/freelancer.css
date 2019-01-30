@@ -343,7 +343,8 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background: linear-gradient(to top right,#475a6d,#524e42) !important;
+  /*background: linear-gradient(to top right,#475a6d,#524e42) !important;*/
+  background: url(/static/img/bg-masthead.jpg) !important;
 }
 
 .bg-secondary {
